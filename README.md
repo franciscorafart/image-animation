@@ -5,3 +5,5 @@ The script draws different fractions of the a png on a repetitive cycle, what gi
 the illusion of a running animation.
 
 The context is also rotated in every cycle so the illusion of the character running inside a wheel is created.
+
+See it here: https://franciscorafart.github.io/image-animation/
